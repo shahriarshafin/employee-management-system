@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="450.0" prefWidth="707.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="NewEmployee.FXMLDocumentController">
+   <children>
+      <MenuBar prefHeight="25.0" prefWidth="707.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <ProgressBar layoutX="144.0" layoutY="382.0" nodeOrientation="LEFT_TO_RIGHT" prefWidth="423.0" />
+      <Label layoutX="157.0" layoutY="36.0" lineSpacing="1.0" prefHeight="42.0" prefWidth="395.0" style="-fx-background-color: #576574;" text=" Employee Info System" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="280.0" layoutY="93.0" prefHeight="31.0" prefWidth="148.0" text="version 1.2.alpha" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="239.0" fitWidth="314.0" layoutX="198.0" layoutY="126.0" pickOnBounds="true">
+         <image>
+            <Image url="@source.gif" />
+         </image>
+      </ImageView>
+      <Button fx:id="next" layoutX="590.0" layoutY="374.0" mnemonicParsing="false" onAction="#nextGo" prefHeight="25.0" prefWidth="75.0" text="Start">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Pane layoutY="457.0" prefHeight="4.0" prefWidth="707.0" style="-fx-background-color: white;" />
+   </children>
+</AnchorPane>

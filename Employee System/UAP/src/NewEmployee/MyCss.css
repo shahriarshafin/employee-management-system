@@ -1,0 +1,488 @@
+
+/* First Page*/
+#next:hover{
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+/*2nd Page*/
+
+#add3{
+    -fx-background-color: #0554eb;
+
+}
+#add3:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#salaryinfo3{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo3:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase3{
+    -fx-background-color: #0554eb;
+
+}
+#increase3:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search3{
+    -fx-background-color: #0554eb;
+
+}
+#search3:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all3{
+    -fx-background-color: #0554eb;
+
+}
+#all3:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+/*3rd Page*/
+
+#salaryinfo2{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo2:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase2{
+    -fx-background-color: #0554eb;
+
+}
+#increase2:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search2{
+    -fx-background-color: #0554eb;
+
+}
+#search2:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all2{
+    -fx-background-color: #0554eb;
+
+}
+#all2:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+/* sub buttons*/
+#salaried{
+    -fx-background-color: #2b5c5c;
+
+}
+#salaried:hover{
+    -fx-background-color:  #A45CB3;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#hourly{
+    -fx-background-color: #2b5c5c;
+
+}
+#hourly:hover{
+    -fx-background-color:  #27ae60;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#commission{
+    -fx-background-color: #2b5c5c;
+
+}
+#commission:hover{
+    -fx-background-color:  #F8546A;
+    -fx-text-fill: white;
+    -fx-font-size:16.5px;
+}
+
+
+/*Page 4*/
+
+
+
+#salaryinfo4{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo4:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase4{
+    -fx-background-color: #0554eb;
+
+}
+#increase4:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search4{
+    -fx-background-color: #0554eb;
+
+}
+#search4:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all4{
+    -fx-background-color: #0554eb;
+
+}
+#all4:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+/*sub */
+
+#hourly4{
+    -fx-background-color: #2b5c5c;
+
+}
+#hourly4:hover{
+    -fx-background-color:  #27ae60;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#commission4{
+    -fx-background-color: #2b5c5c;
+
+}
+#commission4:hover{
+    -fx-background-color:  #F8546A;
+    -fx-text-fill: white;
+    -fx-font-size:16.5px;
+}
+
+
+
+
+/*page 5 */
+
+
+
+#salaryinfo5{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo5:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase5{
+    -fx-background-color: #0554eb;
+
+}
+#increase5:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search5{
+    -fx-background-color: #0554eb;
+
+}
+#search5:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all5{
+    -fx-background-color: #0554eb;
+
+}
+#all5:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+/*sub*/
+
+
+#salaried5{
+    -fx-background-color: #2b5c5c;
+
+}
+#salaried5:hover{
+    -fx-background-color: #A45CB3;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#commission5{
+    -fx-background-color: #2b5c5c;
+
+}
+#commission5:hover{
+    -fx-background-color:  #F8546A;
+    -fx-text-fill: white;
+    -fx-font-size:16.5px;
+}
+
+
+/*page 6 */
+
+
+#salaryinfo6{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo6:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase6{
+    -fx-background-color: #0554eb;
+
+}
+#increase6:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search6{
+    -fx-background-color: #0554eb;
+
+}
+#search6:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all6{
+    -fx-background-color: #0554eb;
+
+}
+#all6:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+/*sub*/
+
+
+#salaried6{
+    -fx-background-color: #2b5c5c;
+
+}
+#salaried6:hover{
+    -fx-background-color: #A45CB3;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#hourly6{
+    -fx-background-color: #2b5c5c;
+
+}
+#hourly6:hover{
+    -fx-background-color:   #27ae60;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+/*page 7*/
+
+#add7{
+    -fx-background-color: #0554eb;
+
+}
+#add7:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+#increase7{
+    -fx-background-color: #0554eb;
+
+}
+#increase7:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search7{
+    -fx-background-color: #0554eb;
+
+}
+#search7:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all7{
+    -fx-background-color: #0554eb;
+
+}
+#all7:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+/*page 8*/
+
+
+#add8{
+    -fx-background-color: #0554eb;
+
+}
+#add8:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#salaryinfo8{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo8:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+#search8{
+    -fx-background-color: #0554eb;
+
+}
+#search8:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#all8{
+    -fx-background-color: #0554eb;
+
+}
+#all8:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+/*page 9*/
+
+
+#add9{
+    -fx-background-color: #0554eb;
+
+}
+#add9:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#salaryinfo9{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo9:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase9{
+    -fx-background-color: #0554eb;
+
+}
+#increase9:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+#all9{
+    -fx-background-color: #0554eb;
+
+}
+#all9:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:16px;
+}
+
+
+/*page 10*/
+#add10{
+    -fx-background-color: #0554eb;
+
+}
+#add10:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#salaryinfo10{
+    -fx-background-color: #0554eb;
+
+}
+#salaryinfo10:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#increase10{
+    -fx-background-color: #0554eb;
+
+}
+#increase10:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+#search10{
+    -fx-background-color: #0554eb;
+
+}
+#search10:hover{
+    -fx-background-color: #022b77;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+
+
+
+
+#details10:pressed{
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size:17px;
+}
+
+
+
+
+
